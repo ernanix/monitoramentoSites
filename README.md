@@ -1,7 +1,9 @@
 _______________________________________________
 
-Primeiro projeto em GOLANG\n
-Monitoramento de Sites\n
-Curso Alura\n
+Primeiro projeto em GOLANG
+
+Monitoramento de Sites
+
+Curso Alura
 
 _______________________________________________
